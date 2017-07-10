@@ -2,4 +2,5 @@
 Creating a new branch is quick.
 Creating a new branch is fast.
 Creating a new branch is quick and simple.
-Creating a 3
+Creating a new branch to test git stash.
+
